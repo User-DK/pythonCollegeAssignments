@@ -1,1 +1,1 @@
-# pythonCollegeAssignments
+# College Assignments on Python
